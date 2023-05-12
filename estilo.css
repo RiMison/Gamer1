@@ -1,0 +1,27 @@
+body
+{
+    background-color:#0b032d;
+}
+    
+h1
+{
+    font-size:50px; 
+    color: #55898c; 
+    text-align: center; 
+}
+    
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p
+{
+
+    font-size:40px; 
+    text-align: center;
+    text-transform: uppercase; 
+    color:#426b1f;
+}
+    
